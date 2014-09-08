@@ -1,6 +1,7 @@
 /**
 *Program to check if all the chars of a string are unique
 * using extra data structures is allowed
+* time complexity O(n) space complexity O(n)
 * /
 
 import java.util.HashSet;
